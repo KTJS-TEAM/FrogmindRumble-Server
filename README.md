@@ -23,4 +23,4 @@ Check out our [Discord Server](https://discord.gg/uV46YKbU5R) for more info and 
 
 [Wiki](https://github.com/KTJS-TEAM/FrogmindRumble-Server/wiki)
 
-![pussy cat](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/cat.png)
+![pussy cat oro](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/cat.png)
