@@ -9,7 +9,7 @@ py main.py
 ## How to play?
 To play you need custom client. You can change ip in Frida-Gadget config
 * RumbleStars: [Download here!](https://mega.nz/file/f7BEXLIL#j1xbyFS93hM_fF5FDKbGiGvfO4AKS_PIo5bX-gQ0h2k) Change IP in /lib/armeabi-v7a/libktjs.config.so
-* RumbleHockey: [Download here!](https://mega.nz/file/azRiWJ5A#f0jviDeRXDKYRF7IUWmXp-tJirJMbsg6GeJL0xB0RIw) Change IP in /lib/armeabi-v7a/libktjs.config.so
+* RumbleHockey: [Download here!](https://mega.nz/file/uvYi2LJR#tBpPKrFiQoZKe9g82FSZP36oEjp3TUAKxF61ft3OasY) Change IP in /lib/armeabi-v7a/libktjs.config.so
 
 ## Screens
 ![RumbleStars](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblestars.jpg)![RumbleHockey](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblehockey.jpg)
