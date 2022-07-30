@@ -12,7 +12,7 @@ To play you need custom client. You can change ip in Frida-Gadget config
 * RumbleHockey: [Download here!](https://mega.nz/file/uvYi2LJR#tBpPKrFiQoZKe9g82FSZP36oEjp3TUAKxF61ft3OasY) Change IP in /lib/armeabi-v7a/libktjs.config.so
 
 ## Screens
-![RumbleStars](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblestars.jpg)![RumbleHockey](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblehockey.jpg)
+![RumbleStars](https://github.com/KTJSDev/FrogmindRumble-Server/raw/RS2.0.0.2/RH2.0.1.3/rumblestars.jpg)![RumbleHockey](https://github.com/KTJSDev/FrogmindRumble-Server/raw/RS2.0.0.2/RH2.0.1.3/rumblehockey.jpg)
 
 ## Information
 This server made by
