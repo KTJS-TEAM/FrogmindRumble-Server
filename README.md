@@ -1,5 +1,5 @@
 # RumbleStars/RumbleHockey Server
-First open-source RumbleStars v2.0.0.2/RumbleHockey v2.0.1.3 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
+First open-source RumbleStars/RumbleHockey v2.1.0.1 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
 
 ## How to start?
 pip install twisted<br>
