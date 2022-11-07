@@ -1,5 +1,5 @@
 # RumbleStars/RumbleHockey Server
-First open-source RumbleStars/RumbleHockey v2.1.0.1 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
+First open-source RumbleStars/RumbleHockey v2.2.1.1 server! this is very dudka servidor, based on [PyRoyale](https://github.com/zzvertigo/pyroyale) by [zzVertigo](https://github.com/zzvertigo)
 
 ## How to start?
 pip install twisted<br>
@@ -8,8 +8,8 @@ py main.py
 
 ## How to play?
 To play you need custom client. You can change ip in Frida-Gadget config
-* RumbleStars: [Download here!](https://mega.nz/file/DyRiGQ5L#aqGn0FZ3ko1A3oyNjR0J5UJtHYwYStHR9PExQmjpHz0) Change IP in /lib/armeabi-v7a/libktjs.config.so
-* RumbleHockey: [Download here!](https://mega.nz/file/HuYEDZRZ#ogIf-n94EtR56eY_ne-DAs8nLazLpZZ1kAa89UeLRYs) Change IP in /lib/armeabi-v7a/libktjs.config.so
+* RumbleStars: [Download here!](https://mega.nz/file/LvBxhTKS#MeZiRFF0Vhqw3_f0QsRXPti5B3fLjoloVQY2fLoKsfw) Change IP in /lib/armeabi-v7a/libtailsjs.config.so
+* RumbleHockey: [Download here!](https://mega.nz/file/vuIjXRZY#jT4bAw0vavhzkgGZnN7v5p9CcVoeIWFHJiVdFTabsbA) Change IP in /lib/armeabi-v7a/libtailsjs.config.so
 
 ## Screens
 ![RumbleStars](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblestars.jpg)![RumbleHockey](https://github.com/KTJS-TEAM/FrogmindRumble-Server/raw/main/rumblehockey.jpg)
