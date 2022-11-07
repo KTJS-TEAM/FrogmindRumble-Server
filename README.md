@@ -16,7 +16,7 @@ To play you need custom client. You can change ip in Frida-Gadget config
 
 ## Information
 This server made by
-* [Kitenok](https://github.com/kitenok228)
+* [Kitenok](https://github.com/kitenokgene)
 * [tailsjs](https://github.com/tailsjs)
 
 Check out our [Discord Server](https://discord.gg/uV46YKbU5R) for more info and news about server!
